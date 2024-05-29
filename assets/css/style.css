@@ -411,6 +411,12 @@ div[class*="banner_box"] button {
   height: 280px;
 }
 
+.card_img img{
+  width:100%;
+  object-fit:contain;
+  aspect-ratio:1;
+}
+
 .card_text {
   width: 90%;
   margin: 0 auto;
