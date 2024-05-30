@@ -414,7 +414,7 @@ div[class*="banner_box"] button {
 .card_img img{
   width:100%;
   object-fit:contain;
-  aspect-ratio:1;
+  aspect-ratio:3/2;
 }
 
 .card_text {
